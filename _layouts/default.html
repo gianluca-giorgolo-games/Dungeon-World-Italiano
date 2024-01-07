@@ -1,180 +1,278 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}{% if page.title != site.name %} &ndash; Dungeon World in Italiano {% endif %}</title>
-    <meta name="description" content="La traduzione italiana, libera e gratuita, di Dungeon World, il gioco di ruolo di Adam Koebel e Sage LaTorra.">
-    <meta name="keywords" content="Dungeon World,GDR,RPG,traduzione,Italiano,storygames">
-    <meta name="author" content="Claudio Freda">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+<html lang="it">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>
+      {{ page.title }}{% if page.title != site.name %} &ndash; Dungeon World in
+      Italiano {% endif %}
+    </title>
+    <meta
+      name="description"
+      content="La traduzione italiana, libera e gratuita, di Dungeon World, il gioco di ruolo di Adam Koebel e Sage LaTorra."
+    />
+    <meta
+      name="keywords"
+      content="Dungeon World,GDR,RPG,traduzione,Italiano,storygames"
+    />
+    <meta name="author" content="Claudio Freda" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
     <meta name="HandheldFriendly" content="true" />
     <link rel="icon" type="image/png" href="/images/icon32.png" />
-    <link rel="apple-touch-icon" type="image/png" href="/images/touchicon.png" />
-    <link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
-    <link href="/css/bootstrap-responsive.min.css" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="/css/all.css">
-    <link href="https://fonts.googleapis.com/css?family=Neuton:200,300,400,700,400italic|Josefin+Sans:700" rel="stylesheet" type="text/css">
-
-    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-    <!--[if lt IE 9]><script src="js/html5shiv.js"></script><![endif]-->
-</head>
-<body>
-  <div class="navbar navbar-inverse navbar-fixed-top">
-    <div class="navbar-inner">
-      <div class="container">
-        <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
+    <link
+      rel="apple-touch-icon"
+      type="image/png"
+      href="/images/touchicon.png"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Neuton:200,300,400,700,400italic|Josefin+Sans:700"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=IM+Fell+English"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Alegreya"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" type="text/css" href="/css/all.css" />
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/">Dungeon World</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNavDropdown"
+          aria-controls="navbarNavDropdown"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
         </button>
-        <a class="brand" href="/">Dungeon World in Italiano</a>
-        <div class="nav-collapse collapse">
-          <ul class="nav">
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Il Gioco <b class="caret"></b></a>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+          <ul class="navbar-nav">
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                Il Gioco
+              </a>
               <ul class="dropdown-menu">
-                <li><a href="/introduzione">Introduzione</a></li>
-                <li><a href="/come-giocare">Come Giocare</a></li>
-                <li><a href="/esempio">Esempio di Partita</a></li>
-                <li><a href="/creazione-personaggi">Creazione dei Personaggi</a></li>
-                <li><a href="/mosse">Mosse</a></li>
-                <li><a href="/equipaggiamento">Equipaggiamento</a></li>
+                <li>
+                  <a class="dropdown-item" href="/introduzione">Introduzione</a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/come-giocare">Come Giocare</a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/esempio"
+                    >Esempio di Partita</a
+                  >
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/creazione-personaggi"
+                    >Creazione dei Personaggi</a
+                  >
+                </li>
+                <li><a class="dropdown-item" href="/mosse">Mosse</a></li>
+                <li>
+                  <a class="dropdown-item" href="/equipaggiamento"
+                    >Equipaggiamento</a
+                  >
+                </li>
               </ul>
             </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Classi <b class="caret"></b></a>
+
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                Classi
+              </a>
               <ul class="dropdown-menu">
-				
-				<li class="nav-header">Classi Base</li>
-				<li><a href="/barbaro">Barbaro</a></li>
-                <li><a href="/bardo">Bardo</a></li>
-                <li><a href="/chierico">Chierico</a></li>
-                <li><a href="/druido">Druido</a></li>
-                <li><a href="/guerriero">Guerriero</a></li>
-                <li><a href="/ladro">Ladro</a></li>
-                <li><a href="/mago">Mago</a></li>
-                <li><a href="/paladino">Paladino</a></li>
-                <li><a href="/ramingo">Ramingo</a></li>
+                <li class="nav-header">Classi Base</li>
+                <li><a class="dropdown-item" href="/barbaro">Barbaro</a></li>
+                <li><a class="dropdown-item" href="/bardo">Bardo</a></li>
+                <li><a class="dropdown-item" href="/chierico">Chierico</a></li>
+                <li><a class="dropdown-item" href="/druido">Druido</a></li>
+                <li>
+                  <a class="dropdown-item" href="/guerriero">Guerriero</a>
+                </li>
+                <li><a class="dropdown-item" href="/ladro">Ladro</a></li>
+                <li><a class="dropdown-item" href="/mago">Mago</a></li>
+                <li><a class="dropdown-item" href="/paladino">Paladino</a></li>
+                <li><a class="dropdown-item" href="/ramingo">Ramingo</a></li>
                 <li class="nav-header">Classi Aggiuntive</li>
-				<li><a href="/classi/monaco">Monaco</a></li>
-				<li><a href="/classi/spadaccino">Spadaccino</a></li>
-                
-				
-				
-			</ul>
-            </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Fare il GM <b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                <li><a href="/il-gm">Il GM</a></li>
-                <li><a href="/prima-sessione">Prima Sessione</a></li>
-                <li><a href="/fronti">Fronti</a></li>
-                <li><a href="/il-mondo">Il Mondo</li>
-                <li><a href="/tecniche-avanzate">Tecniche Avanzate <span class="label label-default">inglese</span></a></li>
+                <li>
+                  <a class="dropdown-item" href="/classi/monaco">Monaco</a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/classi/spadaccino"
+                    >Spadaccino</a
+                  >
+                </li>
               </ul>
             </li>
-            
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mostri <b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                <li><a href="/mostri">Panoramica</a></li>
-				        <li class="nav-header">Ambientazioni</li>
-                <li><a href="/mostri-caverne">Abitanti delle Caverne</a></li>
-                <li><a href="/mostri-paludi">Abitanti delle Paludi</a></li>
-                <li><a href="/mostri-esperimenti">Esperimenti Perversi</a></li>
-                <li><a href="/mostri-foreste">Foreste Intricate</a></li>
-                <li><a href="/mostri-genti">Genti del Reame</a></li>
-                <li><a href="/mostri-non-morti">Legioni dei Non Morti</a></li>
-                <li><a href="/mostri-orde">Orde Fameliche</a></li>
-                <li><a href="/mostri-piani">Poteri Planari</a></li>
-                <li><a href="/mostri-profondita">Profondità della Terra <span class="label label-default">Inglese</span></a></li>
-              </ul>
-            </li>
-			<!-- li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Appendici <b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                
-                <li><a href="appendice-convertire">Convertire le Avventure</a></li>
-                <li><a href="appendice-insegnare">Insegnare il Gioco</a></li>
-                <li><a href="appendice-png">PNG istantanei</a></li>
-				<li><a href="appendice-ringraziamenti">Ringraziamenti</a></li>
-                
-              </ul>
-            </li -->
-            
-            <li><a href="/downloads">Downloads</a></li>
-            
-            <li><a href="https://forum.locandagdr.it">La Locanda (Forum)</a></li>
 
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Altro <b class="caret"></b></a>
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                Fare il GM
+              </a>
               <ul class="dropdown-menu">
-                <li><a href="/crediti">Crediti</a></li>
-                <li><a href="/glossario">Glossario: differenze con Narrattiva</a></li>
+                <li><a class="dropdown-item" href="/il-gm">Il GM</a></li>
+                <li>
+                  <a class="dropdown-item" href="/prima-sessione"
+                    >Prima Sessione</a
+                  >
+                </li>
+                <li><a class="dropdown-item" href="/fronti">Fronti</a></li>
+                <li><a class="dropdown-item" href="/il-mondo">Il Mondo</a></li>
+                <li>
+                  <a class="dropdown-item" href="/tecniche-avanzate"
+                    >Tecniche Avanzate
+                    <span class="label label-default">inglese</span></a
+                  >
+                </li>
+              </ul>
+            </li>
+
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                Mostri
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="/mostri">Panoramica</a></li>
+                <li class="nav-header">Ambientazioni</li>
+                <li>
+                  <a class="dropdown-item" href="/mostri-caverne"
+                    >Abitanti delle Caverne</a
+                  >
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/mostri-paludi"
+                    >Abitanti delle Paludi</a
+                  >
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/mostri-esperimenti"
+                    >Esperimenti Perversi</a
+                  >
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/mostri-foreste"
+                    >Foreste Intricate</a
+                  >
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/mostri-genti"
+                    >Genti del Reame</a
+                  >
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/mostri-non-morti"
+                    >Legioni dei Non Morti</a
+                  >
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/mostri-orde"
+                    >Orde Fameliche</a
+                  >
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/mostri-piani"
+                    >Poteri Planari</a
+                  >
+                </li>
+                <li>
+                  <a class="dropdown-item" href="/mostri-profondita"
+                    >Profondità della Terra
+                  </a>
+                </li>
+              </ul>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="/downloads">Downloads</a>
+            </li>
+
+            <li class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                Altro
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="/crediti">Crediti</a></li>
+                <li>
+                  <a class="dropdown-item" href="/glossario"
+                    >Glossario: differenze con Narrattiva</a
+                  >
+                </li>
                 <li class="nav-header">Link Ufficiali</li>
-                <li><a href="https://book.dwgazetteer.com">Dungeon World in Inglese</a></li>
-                <li><a href="https://facebook.com/dungeonworldit">Dungeonworld.it su Facebook</a></li>
-                <li class="nav-header">Community</li>
-                <li><a href="https://sites.google.com/view/mondosotterraneo/">Mondo Sotterraneo (Fanzine)</a></li>
+                <li>
+                  <a class="dropdown-item" href="https://www.dwsrd.org/"
+                    >Dungeon World in Inglese</a
+                  >
+                </li>
+                
               </ul>
             </li>
-
           </ul>
         </div>
       </div>
+    </nav>
+
+    <div id="wrap">
+      <div id="content" class="container">
+        <div class="page-header">
+          <h1>{{ page.title }}</h1>
+        </div>
+        {{ content }}
+      </div>
     </div>
-  </div>
 
-  <div id="wrap">
-    <div id="content" class="container"> 
-		{% if page.title == "Dungeon World in Italiano" %}
-		
-		<!-- Place this tag where you want the widget to render. -->
-		<div class="googlebadge">
-		<div class="g-page" data-width="340" data-href="//plus.google.com/111364257065306273820" data-layout="landscape" data-rel="publisher"></div>
-		</div>
-		
-		{% endif %}
-		
-		<div class="page-header">
-		
-		<h1> {{ page.title }} </h1>
-		</div>
-		
-		{{ content | replace:'h4>','h5>' | replace:'<h4','<h5' | replace:'h3>','h4>' | replace:'<h3','<h4' | replace:'h2>','h3>' | replace:'<h2','<h3' | replace:'h1>','h2>' | replace:'<h1','<h2' }}
-    </div>
-	<div id="push"></div>
-  <div class="wrap">
-  
-  
-  
-  <script src="https://code.jquery.com/jquery-1.10.1.min.js"></script>
-  <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-  <script src="/js/bootstrap.min.js"></script>
-  <!-- <script src="js/dwbook.js"></script> -->
-  
-  
-	<!-- Place this tag after the last widget tag. -->
-	<script type="text/javascript">
-	  window.___gcfg = {lang: 'it'};
-
-	  (function() {
-		var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-		po.src = 'https://apis.google.com/js/plusone.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-	  })();
-	</script>
-  
-  <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-44648946-1', 'dungeonworld.it');
-  ga('send', 'pageview');
-
-  </script>
-</body>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+      crossorigin="anonymous"
+    ></script>
+  </body>
 </html>

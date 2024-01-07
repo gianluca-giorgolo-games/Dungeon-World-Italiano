@@ -5,10 +5,6 @@ layout: default
 
 *Una classe di James Mendez Hodes*
 
-<div class="frame right bigger">
-    <img src="/images/monaco.jpg"/>
-</div>
-
 Così ho sentito: Quando l'Eccelso risiedeva nel Parco dei Cervi non lontano dal Luogo Illuminato, i monaci gli chiesero della natura del mondo.
 
 L'Eccelso disse: «Monaci, questo mondo è un labirinto, e noi siamo i suoi prigionieri. I pericoli del bastone, della spada e delle bestie predatrici sono il nostro carceriere. Le paure della morte, della sofferenza e della perdita sono le catene. Le tentazioni della fama e della ricchezza sono le sbarre. Adesso immaginate un uomo innocente imprigionato in una cella - pensate forse che vorrebbe rimanervi?». I monaci risposero «Certamente no». L'Eccelso disse: «Non si preparerebbe forse con esercizi per allenare la propria forza, sperando di sconfiggere i carcerieri, rompere le catene e piegare le sbarre?" I monaci risposero «Certamente lo farebbe». L'Eccelso disse: «Immaginate che, dopo aver sconfitto questi ostacoli ed essere uscito dalla sua cella, dovesse vedere l'intero labirinto spiegato davanti a lui, con mille altre celle, ciascuna contenente un uomo che soffre - credete che sarebbe preso dalla compassione?». A questo i monaci non seppero rispondere.

@@ -4,7 +4,7 @@ layout: default
 ---
 
 <div class="frame right bigger">
-    <img src="/images/clovis-spaccaossa-barbaro.jpg"/>
+    <img src="/images/barbarian.jpg"/>
     <p>Il barbaro umano Clovis Spaccaossa</p>
 </div>
 

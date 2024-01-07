@@ -2,6 +2,14 @@
 title: Creazione dei Personaggi
 layout: default
 ---
+
+<div markdown="1" class="container">
+<div markdown="1" class="row row-height">
+<div markdown="1" class="col-md-4 toc">
+1. Toc
+{:toc}
+</div>
+<div markdown="1" class="col-md-8 mainbody">
 Creare personaggi di Dungeon World è facile e veloce. Dovreste creare i personaggi tutti insieme all'inizio della prima sessione. La creazione del personaggio è, come il gioco stesso, un tipo di conversazione: tutti dovrebbero essere presenti.
 
 Potrebbe essere necessario creare un altro personaggio durante il gioco se, per esempio, il tuo resta ucciso. Se così fosse non c'è da preoccuparsi, il processo di creazione del personaggio ti aiuterà a creare un nuovo personaggio che si adatti al gruppo in pochi minuti. Ogni personaggio, anche eventuali rimpiazzi, comincia al livello 1.
@@ -118,3 +126,6 @@ Una volta che tutti hanno descritto il proprio personaggio, puoi scegliere i tuo
 Concediti una pausa: prendi una bibita, stiracchiati le gambe, e lascia il GM a pensare per un po' su quanto ha appena imparato a proposito dei vostri personaggi. Quando siete tutti pronti, prendi dadi e scheda e preparati ad affrontare il dungeon.
 
 Quando sarete pronti, il GM darà inizio al gioco come descritto nel capitolo Prima Sessione.
+</div>
+</div>
+</div>

@@ -3,6 +3,15 @@ title: Mosse
 layout: default
 ---
 
+
+<div markdown="1" class="container">
+<div markdown="1" class="row row-height">
+<div markdown="1" class="col-md-4 toc">
+1. Toc
+{:toc}
+</div>
+<div markdown="1" class="col-md-8 mainbody">
+
 <div class="alert alert-info">
     <button type="button" class="close" data-dismiss="alert">×</button>
     Questo capitolo è anche disponibile in <a style="font-weight:bold" href="https://bit.ly/1hN8iUm">comoda scheda riassuntiva da stampare!</a>
@@ -520,3 +529,6 @@ Quando **passi il tuo tempo libero a studiare, meditare o allenarti duramente,**
 
 _[Prosegui al prossimo capitolo: Equipaggiamento!](/equipaggiamento)_
 
+</div>
+</div>
+</div>

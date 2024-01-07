@@ -2,6 +2,13 @@
 title: Come Giocare
 layout: default
 ---
+<div markdown="1" class="container">
+<div markdown="1" class="row row-height">
+<div markdown="1" class="col-md-4 toc">
+1. Toc
+{:toc}
+</div>
+<div markdown="1" class="col-md-8 mainbody">
 Giocare a Dungeon World è come una conversazione; qualcuno dice qualcosa, poi tu rispondi, e magari qualcun altro dice la sua. Ciò di cui si parla è la *fiction*: il mondo dei personaggi e delle cose che accadono attorno a loro. Mentre si gioca, anche le regole diranno la propria; anche loro hanno qualcosa da dire sul mondo. Non ci sono turni, round o giri in Dungeon World, non ci sono regole che dicono di chi sia il turno di parlare. Invece, i giocatori si alternano seguendo il flusso naturale della conversazione, che prevede sempre un po' di botta e risposta. Il GM dice qualcosa, i giocatori rispondono. I giocatori fanno domande o affermazioni, il GM gli dice cosa succede subito dopo. Dungeon World non è mai un monologo; è sempre una conversazione.
 
 Le regole aiutano a dare forma alla conversazione durante il gioco. Mentre il GM e i giocatori parlano, anche le regole e la fiction parlano. Ciascuna regola si attiva esplicitamente a partire dalla fiction, dicendoti quando è il momento di portarla all'interno della conversazione.
@@ -74,7 +81,7 @@ Alcune mosse hanno degli effetti meccanici immediati, come infliggere danno o da
 
 ### Alcune mosse …
 
-**… Usano la frase "infliggi danno".** Infliggere danni significa che tiri i dadi di danno della tua classe; a volte anche la tua arma aggiungerà o sottrarrà dei danni. Usi i tuoi danni ogniqualvolta fai un attacco che potrebbe ragionevolmente far del male al tuo bersaglio. Solitamente questo significa che hai un'arma in mano, ma anche i pugni possono essere armi con il giusto addestramento o in una situazione interessante.
+**… Usano la frase "infliggi danno".** Infliggere danni significa che tiri i dadi di danno della tua classe; a volte anche la tua arma aggiungerà o sottrarrà dei danni. Usi i tuoi danni ogni volta che fai un attacco che potrebbe ragionevolmente far del male al tuo bersaglio. Solitamente questo significa che hai un'arma in mano, ma anche i pugni possono essere armi con il giusto addestramento o in una situazione interessante.
 
 **… Dicono «prendi +1 al prossimo tiro».** Questo significa che aggiungi +1 al prossimo tiro di una mossa (non un tiro di danni). Il bonus può essere più grande di +1, o anche una penalità, ad esempio -1. Potrebbe esserci anche un prerequisito, come «prendi +1 al prossimo tiro di *taglia e spacca*», nel qual caso il bonus si applica solo alla tua prossima mossa di *taglia e spacca*, e a nessun'altra.
 
@@ -133,7 +140,7 @@ Se molteplici creature attaccano allo stesso momento, tira i danni più elevati 
 
 ### Danni da stordimento
 
-I danni da stordimento sono danni non letali. Un PG che subisce danni non letali deve*sfidare il pericolo* per fare qualunque cosa, dove il pericolo è "sei stordito". L'effetto dura fintanto che ha senso nella fiction: sei stordito finché non hai la possibilità di schiarirti le idee o di sistemare qualunque cosa ti renda stordito. Un personaggio del GM che subisce danni da stordimento non li sottrae ai PF ma agirà di conseguenza, vacillando per qualche secondo, barcollando alla cieca, etc.
+I danni da stordimento sono danni non letali. Un PG che subisce danni non letali deve *sfidare il pericolo* per fare qualunque cosa, dove il pericolo è "sei stordito". L'effetto dura fintanto che ha senso nella fiction: sei stordito finché non hai la possibilità di schiarirti le idee o di sistemare qualunque cosa ti renda stordito. Un personaggio del GM che subisce danni da stordimento non li sottrae ai PF ma agirà di conseguenza, vacillando per qualche secondo, barcollando alla cieca, etc.
 
 ### Aggiungere e sottrarre danni
 
@@ -511,4 +518,6 @@ Sei un avventuriero; sei una persona importante. Ma ci sono altre forze in gioco
 Un mondo in costante movimento è un mondo che aspetta di essere cambiato. Le tue scelte di chi uccidere (e chi no), dove andare, quali patti stringere — tutto cambia il mondo in cui ti trovi. Cambiare il mondo significa agire su di esso: fare mosse, cercare tesori e esplorare. Il cambiamento appare sotto molte forme, compresi i PE che usi per salire di livello e ottenere nuove capacità. Potrai poi usare queste capacità nel mondo per scombinare ancora le cose. È un ciclo di cambiamento e crescita sia per te che per il mondo in cui vivi.
 
 _[Prosegui al prossimo capitolo: Esempio di Gioco!](/esempio)_
-
+</div>
+</div>
+</div>

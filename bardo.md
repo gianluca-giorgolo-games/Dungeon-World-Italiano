@@ -3,7 +3,7 @@ title: Il Bardo
 layout: default
 ---
 <div class="frame right">
-    <img src="/images/florian-bardo.jpg"/>
+    <img src="/images/bard.jpg"/>
     <p>Il bardo umano Florian</p>
 </div>
 

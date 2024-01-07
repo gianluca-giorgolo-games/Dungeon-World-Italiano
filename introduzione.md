@@ -12,11 +12,6 @@ Non è solo una questione di gesta eroiche e nobili dimostrazioni di coraggio, p
 
 Tu e i tuoi amici *siete* quegli eroi. Voi andate dove gli altri non possono o non vogliono. Ci sono cose mostruose che si aggirano per il mondo. Siete pronti ad affrontarle?
 
-<div class="frame right bigger">
-    <img src="/images/clovis-spaccaossa-barbaro.jpg"/>
-    <p>Il barbaro umano Clovis Spaccaossa</p>
-</div>
-
 # Il Barbaro
 
 Guarda questa gente imbellettata. Ti osservano e hanno paura di te. Fanno bene, devono averne. Tu non sei come loro. Vieni da un luogo dove il valore di un uomo si misura dalla forza del suo pugno, non dalla capienza delle sue tasche. Mentre loro sono deboli, si nascondono dietro leggi fragili come le loro ossa; l'unica legge che conosci è quella del più forte. Ce ne sono altre? 
@@ -27,10 +22,6 @@ Perchè nessuno di loro è forte come te. Nessuno.
 
 _[Clicca qui per visitare la pagina del Barbaro](/barbaro)_
 
-<div class="frame left">
-    <img src="/images/florian-bardo.jpg"/>
-    <p>Il bardo umano Florian</p>
-</div>
 
 # Il Bardo
 
@@ -85,11 +76,6 @@ Dal tuo castello. Pieno d'oro. Furfante che non sei altro.
 _[Clicca qui per visitare la pagina del Ladro](/ladro)_
 
 
-<div class="frame right">
-    <img src="/images/liliastre-maga.jpg" />
-    <p>La maga elfa Liliastre</p>
-</div>
-
 # Il Mago
 
 Dungeon World ha delle regole. Non sono le leggi degli uomini o la parola di un meschino tiranno. Regole più grandi, migliori. Lasci cadere qualcosa, in pochi attimi è per terra. Non si può creare la materia dal nulla. I morti restano morti, giusto?
@@ -104,11 +90,6 @@ Esatto. Non avevo dubbi.
 
 _[Clicca qui per visitare la pagina del Mago](/mago)_
 
-<div class="frame left">
-    <img src="/images/adrian-paladino.jpg" />
-    <p>Il paladino umano Adrian</p>
-</div>
-
 # Il Paladino
 
 L'Inferno attende. Un'eternità di tormento nel fuoco o nel gelo o qualunque altra pena meglio rappresenti i peccati commessi dalle orde di dannati di Dungeon World. Sei l'unica cosa che si frappone tra la salvezza dell'anima e le cupe fosse della tortura. Sant'uomo, macchina da guerra in armatura, templare del Bene e della Luce, giusto? Il chierico potrà pregare di notte agli dei che abitano il cielo. Il guerriero potrà impugnare la sua spada affilata nel nome del "bene" ma tu sai. Solo tu sai.
@@ -121,10 +102,6 @@ Vae victis, giusto?
 
 _[Clicca qui per visitare la pagina del Paladino](/paladino)_
 
-<div class="frame right bigger">
-    <img src="/images/nora-raminga.jpg" />
-    <p>La raminga umana Nora e il suo lupo Garu</p>
-</div>
 
 # Il Ramingo
 
