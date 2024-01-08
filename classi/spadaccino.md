@@ -1,6 +1,8 @@
 ---
 title: Lo Spadaccino
 layout: default
+parent: Classi
+nav_order: 11
 ---
 
 *Una classe di Jacob Randolph (The Dashing Hero)*

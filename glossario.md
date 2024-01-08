@@ -1,6 +1,7 @@
 ---
 title: Glossario
 layout: default
+nav_order: 6
 ---
 <div class="panel panel-primary">
 <div class="panel-heading">Glossario delle differenze con l'edizione di Narrattiva</div>

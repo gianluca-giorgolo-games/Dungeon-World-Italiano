@@ -1,6 +1,7 @@
 ---
 title: Crediti
 layout: default
+nav_order: 7
 ---
 Libera traduzione del [lavoro originale](book.dwgazetteer.com) di **[Adam Koebel][adam]** e **[Sage LaTorra][sage]**.
 

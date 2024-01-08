@@ -1,6 +1,8 @@
 ---
 title: Il Monaco
 layout: default
+parent: Classi
+nav_order: 8
 ---
 
 *Una classe di James Mendez Hodes*
